@@ -124,7 +124,7 @@ with st.sidebar:
     
     # Menambahkan logo perusahaan
     st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
-    st.write('Copyright (C) © 2023 by Haidar ')
+    st.write('Copyright (C) © 2023 by Egi Danuarta ')
     # Define the URL and link text
     url = "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
     link_text = "Visit Kaggle Dataset "
