@@ -123,7 +123,7 @@ def create_rfm(df):
 with st.sidebar:
     
     # Menambahkan logo perusahaan
-    st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
+
     st.write('Copyright (C) © 2023 by Egi Danuarta ')
     # Define the URL and link text
     url = "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
@@ -147,7 +147,7 @@ rfm=create_rfm(all_df)
 # ======================================== Header ========================================
 # ========================================================================================
 
-st.header('Brazilian E-Commerce Public Dataset :sparkles:')
+st.header('Brazilian E-Commerce Public Dataset')
 
 # ========================================================================================
 # ====================================== Sub Header ======================================
