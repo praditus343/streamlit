@@ -124,7 +124,7 @@ with st.sidebar:
     
     # Menambahkan logo perusahaan
 
-    st.write('Copyright (C) © 2023 by Egi Danuarta ')
+    st.write('Praditus Egi Danuarta ')
     # Define the URL and link text
     url = "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
     link_text = "Visit Kaggle Dataset "
